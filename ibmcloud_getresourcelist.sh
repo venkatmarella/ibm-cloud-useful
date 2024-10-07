@@ -8,9 +8,6 @@
 # Purpose: This script to bring all ibm cloud resources in classic and vpc in your ibm account
 ###########################
 
-
-#!/bin/bash
-
 # Function to install IBM Cloud CLI
 install_ibmcloud_cli() {
     echo "Installing IBM Cloud CLI..."
